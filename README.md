@@ -1,4 +1,4 @@
-**📊 HR Analytics Dashboard – Power BI Project**
+# 📊 HR Analytics Dashboard – Power BI Project
 
 **🧠 Project Summary**
 Developed an interactive HR analytics dashboard in Power BI using real-world HR data to uncover key drivers of attrition and support data-informed decision-making in HR strategy.
